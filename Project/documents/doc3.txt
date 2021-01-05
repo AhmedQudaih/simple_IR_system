@@ -1,0 +1,1 @@
+ user enters a query into the system. Queries are formal statements of information needs
